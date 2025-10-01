@@ -1,2 +1,3 @@
 # bookbot
-Second repository for building a bookbot in python - Boot.dev
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
